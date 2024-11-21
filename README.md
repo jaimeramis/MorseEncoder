@@ -26,5 +26,5 @@ Además, debes asegurarte de que el archivo data.json esté presente en el mismo
 4. Ejecutar main.py
 
 
-Gracias por su atención.
+Gracias por su atención.<br>
 JR
