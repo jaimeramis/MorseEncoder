@@ -1,0 +1,2 @@
+# MorseEncoder
+Python - Scripting - MorseEncoder
